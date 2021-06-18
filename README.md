@@ -1,3 +1,6 @@
+<details>
+<summary>Default readme</summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</details>
+
+<details>
+<summary>My Custom Readme</summary>
+
+# introduction
+  This project collab with [@sensei arya](https://github.com/aryawpratama)
+  
+  You can generate & run react app by run this command in your terminal:
+  ```bash
+  npx create-react-app your-app-name
+  cd your-app-name
+  npm start
+  ```
+# Reference
+  * [React reducer](https://reactjs.org/docs/hooks-reference.html#usereducer)
+  * [Add tailwind to react](https://tailwindcss.com/docs/guides/create-react-app)
+  * [Tailwind dark mode](https://tailwindcss.com/docs/dark-mode)
+  
+</details>
