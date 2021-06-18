@@ -79,19 +79,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # introduction
   This project collab with [@sensei arya](https://github.com/aryawpratama)
-  
-  You can generate & run react app by run this command in your terminal:
-  ```bash
-  npx create-react-app your-app-name
-  cd your-app-name
-  npm start
-  ```
-  
+    
   You can use this repository & run react app by run this command in your terminal:
   ```bash
   git clone https://github.com/QUERY-GANI/learn-react.git
   cd learn-react
   npm i
+  npm start
+  ```
+  
+  Or you can generate & run react app by run this command in your terminal:
+  ```bash
+  npx create-react-app your-app-name
+  cd your-app-name
   npm start
   ```
   
