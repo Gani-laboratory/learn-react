@@ -86,6 +86,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   cd your-app-name
   npm start
   ```
+  
+  You can use this repository & run react app by run this command in your terminal:
+  ```bash
+  git clone https://github.com/QUERY-GANI/learn-react.git
+  cd learn-react
+  npm i
+  npm start
+  ```
+  
 # Reference
   * [React reducer](https://reactjs.org/docs/hooks-reference.html#usereducer)
   * [Add tailwind to react](https://tailwindcss.com/docs/guides/create-react-app)
